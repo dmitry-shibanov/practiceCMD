@@ -1,0 +1,2 @@
+ - Get all system variables: `Get-Variable`
+ - Version of powershell: `$PSVersionTable.PSVersion`
